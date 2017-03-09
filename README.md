@@ -13,3 +13,4 @@ for rtl8723be. In addition, patches to implement this feature have been submitte
 to the linux-wireless repo. If accepted, they should appear in kernel 4.7; however,
 they will be packported to kernels 4.0 and newer when they reach mainline.
 
+Hint:- https://connectwww.com/how-to-solve-realtek-rtl8723be-weak-wifi-signal-problem-in-ubuntu/4625/
